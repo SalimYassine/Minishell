@@ -1,0 +1,20 @@
+# Objets et exécutables
+*.o
+*.a
+*.so
+minishell
+test_readcmd
+
+# Fichiers temporaires et backups (gérés par ton 'make clean')
+*~
+*.swp
+*.swo
+core
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db

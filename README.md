@@ -1,4 +1,4 @@
-# Minishell - A Minimal UNIX Shell Implementation 🐚
+# Minishell - A Minimal UNIX Shell Implementation
 
 ## Overview
 Minishell is a custom command-line interpreter developed in **C**. It replicates core functionalities of standard shells (like Bash or Zsh), demonstrating deep understanding of **system calls**, **process management**, and **inter-process communication**.

@@ -33,12 +33,12 @@ make
 make test
 ./test_readcmd
 ```
-##Technical details
+## Technical details
 
 Language: C
 Memory Management: Dynamic allocation for command parsing structures.
 System Calls: fork, exec, pipe, dup2, signal/sigaction.
 
-##Author
+## Author
 
 Yassine Salim - Engineering Student at ENSEEIHT (Computer Science & Telecommunications)

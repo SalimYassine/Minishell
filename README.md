@@ -35,9 +35,9 @@ make test
 ```
 ## Technical details
 
-Language: C
-Memory Management: Dynamic allocation for command parsing structures.
-System Calls: fork, exec, pipe, dup2, signal/sigaction.
+* Language: C
+* Memory Management: Dynamic allocation for command parsing structures.
+* System Calls: fork, exec, pipe, dup2, signal/sigaction.
 
 ## Author
 
